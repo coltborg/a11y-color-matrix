@@ -1,8 +1,8 @@
-# A11y Color Matrix
+# 🖍 A11y Color Matrix
 
 A color matrix app that will take many color formats, compare their contrasts, and show which color pairs are acceptable to use together.
 
-## Project commands
+## ⌨️ Project commands
 
 Install dependencies
 ```
@@ -39,5 +39,5 @@ Run your unit tests
 yarn run test:unit
 ```
 
-### Customize configuration
+### 🔧 Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
