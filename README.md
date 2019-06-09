@@ -1,36 +1,40 @@
-# a11y-color-matrix
+# A11y Color Matrix
 
-## Project setup
+A color matrix app that will take many color formats, compare their contrasts, and show which color pairs are acceptable to use together.
+
+## Project commands
+
+Install dependencies
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+Compiles and hot-reloads for development
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+Compiles and minifies for production
 ```
 yarn run build
 ```
 
-### Run your tests
+Run your tests
 ```
 yarn run test
 ```
 
-### Lints and fixes files
+Lints and fixes files
 ```
 yarn run lint
 ```
 
-### Run your end-to-end tests
+Run your end-to-end tests
 ```
 yarn run test:e2e
 ```
 
-### Run your unit tests
+Run your unit tests
 ```
 yarn run test:unit
 ```
